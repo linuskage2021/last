@@ -1,6 +1,16 @@
 
 
 
+#' Euclidean
+#'
+#' @param x1 is an integer
+#' @param x2 is an integer
+#'
+#' @return The function returns the blablabl
+#' @export
+#'
+#' @examples
+#' euclidean(100,1000)
 euclidean <- function(x1, x2){
 
 
